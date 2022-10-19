@@ -1,3 +1,9 @@
+agate
+bismuth
+emerald
+graphite
+halite
+quartz
 alloy
 aluminum
 brass
@@ -16,3 +22,10 @@ tin
 titanium
 tungsten
 zinc
+plastic
+aluminum
+fur
+ruby
+cloth
+fabric
+carbon fiber
