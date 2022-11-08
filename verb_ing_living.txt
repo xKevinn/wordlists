@@ -28,9 +28,6 @@ sculpting
 puzzling
 crafting
 building
-tearing
-ripping
-smashing
 enhancing
 fading
 sailing
