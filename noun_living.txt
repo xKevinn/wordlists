@@ -127,7 +127,6 @@ photographer
 plumber
 police officer
 postal worker
-priest
 principal
 receptionist
 sailor
