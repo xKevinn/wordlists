@@ -54,7 +54,6 @@ butterfly
 ant
 locust
 praying mantis
-grub
 louse
 midge
 pillbug
