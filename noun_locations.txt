@@ -1,0 +1,114 @@
+construction site
+dentist office
+amusement park
+aquarium
+art gallery
+beach
+bookstore
+bowling alley
+cafe
+campground
+casino
+castle
+cemetery
+church
+circus
+city hall
+cliff
+clothing store
+comic book store
+courthouse
+dining room
+dojo
+factory
+farm
+fast food restaurant
+field
+fire station
+forest
+garden
+gas station
+golf course
+graveyard
+gym
+hair salon
+hospital
+ice cream store
+library
+lighthouse
+living room
+mansion
+museum
+parking lot
+pharmacy
+picnic area
+playground
+police station
+post office
+prehistoric site
+race track
+road
+rodeo
+school
+shopping mall
+skyscraper
+sports arena
+subway station
+supermarket
+theater
+tower
+trailer park
+university
+utility room
+valley
+zoo
+movie theater
+zoo
+nightclub
+club
+bar
+market
+home
+apartment
+cabin
+office
+cottage
+dock
+ship
+boardwalk
+path
+trail
+woods
+jungle
+ocean
+river
+stream
+lake
+pond
+island
+bridge
+research center
+college
+art gallery
+house
+condo
+townhouse
+office building
+bar
+football stadium
+baseball stadium
+soccer stadium
+basketball court
+mosque
+temple
+bank
+clinic
+bar
+zoo
+concert hall
+music venue
+broadway theater
+gambling hall
+skating rink
+tennis court
+swimming pool
