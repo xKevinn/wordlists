@@ -1,6 +1,5 @@
 easy
 happy
-hard
 sad
 angry
 afraid
@@ -13,7 +12,6 @@ courageous
 crazy
 daring
 determined
-different
 difficult
 disappointed
 disloyal
@@ -31,7 +29,6 @@ innocent
 jealous
 lazy
 loud
-naive
 nervous
 obedient
 outgoing
@@ -57,10 +54,8 @@ disgusted
 surprised
 confused
 shocked
-aroused
 bored
 tired
-elated
 embarrassed
 depressed
 furious
@@ -96,12 +91,8 @@ alert
 attractive
 average
 batty
-beefy
-black
-blue
 blushing
 bright
-brown
 bubbly
 burly
 busy
@@ -122,7 +113,6 @@ delicious
 dizzy
 dopey
 drab
-drugged
 drunk
 energetic
 fierce
@@ -158,7 +148,6 @@ lovely
 macho
 majestic
 mellow
-meaty
 mighty
 miniature
 mischievous
@@ -169,7 +158,6 @@ motorized
 muscular
 mute
 nasty
-naughty
 noisy
 obese
 odd
